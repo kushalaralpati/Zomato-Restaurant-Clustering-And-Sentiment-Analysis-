@@ -24,3 +24,5 @@ Utilization of sentiment analysis to enrich feedback interpretation, contributin
 Proposition of future prospects, including the implementation of personalized recommendation systems to enhance customer experiences.
 
 In conclusion, the project delivered actionable insights for Zomato and restaurant owners, enabling informed decisions and the enhancement of overall customer satisfaction
+
+![Zomato clustering certificate image](https://github.com/user-attachments/assets/ed3b589a-15c5-4a74-a863-b015f18d0249)
